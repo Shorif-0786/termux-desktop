@@ -137,7 +137,7 @@ Sadly for other then adreno, GPU might not work on the distro container.
 If you type 'n/N' then it will use the old way to setup Hardware Acceleration.
 </b>
 
----
+Most Interested 
 
 <a name="installation"></a>
 
